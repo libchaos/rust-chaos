@@ -1,0 +1,9 @@
+[package]
+name = "hell"
+version = "0.1.0"
+authors = ["libin <libchaos01@163.com>"]
+
+[dependencies]
+time = "0.1.38"
+regex = "0.2.3"
+rand = {git = "https://github.com/rust-lang-nursery/rand.git"}
