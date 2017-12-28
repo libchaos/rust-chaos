@@ -1,0 +1,7 @@
+[package]
+name = "sample_rayon"
+version = "0.1.0"
+authors = ["libin <libchaos01@163.com>"]
+
+[dependencies]
+rayon = "0.9.0"

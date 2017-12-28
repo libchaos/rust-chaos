@@ -1,0 +1,1 @@
+{"rustc":2117700086711378991,"features":"[]","target":263495283323642358,"profile":731176819336294830,"deps":[["rayon v0.9.0",16205399361566422157]],"local":[{"MtimeBased":[[1514367490,0],"/Users/mac/projects/open-source/rust-chaos/rust-cook/sample_rayon/target/debug/.fingerprint/sample_rayon-2a9b6c00db6a8b80/dep-bin-sample_rayon-2a9b6c00db6a8b80"]}],"rustflags":[]}

@@ -8,3 +8,12 @@ curl https://sh.rustup.rs -sSf | sh
 ```
 rustup self uninstall
 ```
+
+
+
+webdnn
+deeplearn
+kera
+tensorfire
+convnet
+
